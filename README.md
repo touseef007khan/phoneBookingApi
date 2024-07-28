@@ -1,6 +1,10 @@
 # phoneBookingApi
 This spring boot application uses the in-memory H2 database to provide APIs to book/return phones
 
+Requirements:
+Springboot - 3.3.2
+java - 17
+
 #This is a swagger URL to access the application endpoints:
 http://localhost:8080/swagger-ui/index.html#/
 
