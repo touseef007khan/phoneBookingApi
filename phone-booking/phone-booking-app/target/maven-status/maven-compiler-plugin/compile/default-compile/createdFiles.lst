@@ -1,0 +1,6 @@
+com\example\bookings\controller\PhoneController.class
+com\example\bookings\componenet\Phone.class
+com\example\bookings\ServletInitializer.class
+com\example\bookings\service\PhoneService.class
+com\example\bookings\PhoneBookingApplication.class
+com\example\bookings\repository\PhoneRepository.class
